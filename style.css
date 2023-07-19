@@ -1,0 +1,127 @@
+*{
+    margin: 0px;
+    font-family: "Inter";
+    background-color: #303030;
+}
+
+#secao-menu-superior{
+    background-color: #303030;
+}
+
+#titulo-menu-superior{
+    margin-left: 62px;
+    padding-top: 206px;
+    font-size: 60px;
+    color: #FFFFFF;
+    background-color: #303030;
+    
+}
+
+#subtitulo-menu-superior{
+    margin-left: 62px;
+    margin-top: 28px;
+    font-size: 20px;
+    color: #FFFFFF;
+    background-color: #303030;
+    padding-bottom: 177px ;
+}
+
+#numeros-empresa{
+    background-color: #fffffff7;
+}
+
+#img-numeros-empresa{
+    
+    width: 1440px;
+    height: 229px;
+}
+
+#secao-informacional{
+    background-color: #FFFFFF;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+#titulo-secao-informacional{
+    margin-left: 0px;
+    margin-top: 0px;
+    font-size: 40px;
+    background-color: #FFFFFF;
+    padding-top: 235px;
+    padding-left: 77px;
+    padding-bottom: 25px;
+    
+
+}
+
+#subtitulo-secao-informacional{
+    margin-top: 0px;
+    margin-left: 0px;
+    font-size: 24px;
+    background-color: #FFFFFF;
+    padding-bottom: 216px;
+    padding-left: 77px;
+    margin-left: 0px;
+    line-height: 30px;
+    
+    
+}
+
+
+#imagem-menu-informacional{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 40px;
+    background-color: #FFFFFF;
+    width: 510px;
+    height: 605px;
+    border-radius: 30px;
+    
+}
+
+#formulario{
+    background: color #779b23;
+    text-align: center;
+}
+
+#titulo-formulario{
+    text-align: center;
+    font-size: 32px;
+    margin-top: 48px;
+    color: #FFFFFF;
+    margin-bottom: 50px;
+}
+
+input{
+    Width:508px;
+    Height: 72px;
+    color:black;
+    border-radius: 10px;
+    margin: 15PX 15px 15px 0px;
+    border: 0px;
+    background-color: #FFFFFF;
+    margin-bottom: 50px;
+}
+
+button{
+    color: white;
+    Width: 286px;
+    Height: 74px;
+    background-color: #C07212;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    border-radius: 10px;
+    font: Raleway;
+}
+
+button:hover{
+    background-color: #34a2d1;
+    color: white;
+    transform: translateY(-7px);
+    box-shadow: 0px 15px 20px  #3860e18f;
+    transition-duration: 0.5;
+
+}
